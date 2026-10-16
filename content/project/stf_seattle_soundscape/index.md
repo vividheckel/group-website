@@ -38,6 +38,6 @@ The Greater Seattle Soundscape Monitoring Project seeks to engage students and c
 
 By engaging with bioacoustics technology and research, students from diverse academic backgrounds develop strong interdisciplinary skills across a variety of fields (including acoustics, ecology, data science, and signal processing). This accessible entry point also serves to improve technical skills and create open pathways for students to generate conclusions from large datsets in a setting outside the classroom. The program aims to not restrict access and requires no prior knowledge of bioacoustics, data science, or research.
 
-See the [Greater Seattle Soundscape Monitoring Project](https://seattle-soundscape.org) website for more information about joining the program and generated results.
+See the [Greater Seattle Soundscape Monitoring Project](https://seattle-soundscape.uw.edu) website for more information about joining the program and generated results.
 
 **Funding**: [UW Student Technology Fee](https://techfee.uw.edu/)
